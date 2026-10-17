@@ -1,0 +1,9 @@
+{
+  "name": "counter",
+  "version": "0.1.0",
+  "title": "Counter",
+  "author": "Sheridan",
+  "factorio_version": "2.1",
+  "dependencies": ["fui"],
+  "description": "Count entities in selection or blueprint. And more..."
+}
