@@ -5,5 +5,5 @@
   "author": "Sheridan",
   "factorio_version": "2.1",
   "dependencies": ["fui"],
-  "description": "Count entities in selection or blueprint. And more..."
+  "description": "Counts and categorizes all entities, tiles, fluids, and items in a selected area or blueprint."
 }
