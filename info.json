@@ -4,6 +4,6 @@
   "title": "Counter",
   "author": "Sheridan",
   "factorio_version": "2.1",
-  "dependencies": ["fui"],
+  "dependencies": ["factorio-user-interface"],
   "description": "Counts and categorizes all entities, tiles, fluids, and items in a selected area or blueprint."
 }

@@ -1,5 +1,5 @@
-require("__fui__.fui")
-require("__fui__.utils.class")
+require("__factorio-user-interface__.fui")
+require("__factorio-user-interface__.utils.class")
 require("utils.elem_tooltip_filter")
 
 CounterTable = class()

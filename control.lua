@@ -1,5 +1,5 @@
 
-require("__fui__.fui")
+require("__factorio-user-interface__.fui")
 
 require("counter.selection")
 require("counter.blueprint")

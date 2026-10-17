@@ -1,4 +1,4 @@
-require("__fui__.utils.class")
+require("__factorio-user-interface__.utils.class")
 
 CounterBase = class()
 
